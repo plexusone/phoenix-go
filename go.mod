@@ -5,7 +5,7 @@ go 1.25.0
 require (
 	github.com/go-faster/errors v0.7.1
 	github.com/go-faster/jx v1.2.0
-	github.com/ogen-go/ogen v1.20.1
+	github.com/ogen-go/ogen v1.20.2
 	github.com/plexusone/omniobserve v0.7.0
 	go.opentelemetry.io/otel v1.43.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.43.0
@@ -18,7 +18,7 @@ require (
 	github.com/cenkalti/backoff/v5 v5.0.3 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/dlclark/regexp2 v1.11.5 // indirect
-	github.com/fatih/color v1.18.0 // indirect
+	github.com/fatih/color v1.19.0 // indirect
 	github.com/ghodss/yaml v1.0.0 // indirect
 	github.com/go-faster/yaml v0.4.6 // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
